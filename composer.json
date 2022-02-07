@@ -1,0 +1,13 @@
+{
+    "name": "agildevs/uptimeserver",
+    "description": "Servi\u0000o de Monitoramento de Servidor Lighttpd",
+    "authors": [
+        {
+            "name": "Daniel Pinon",
+            "email": "danielpinon@danielpinon.com.br"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
